@@ -10,4 +10,4 @@ It comprises of:
 * openModal: remove 'hidden' from class lists
 * closeModal: add 'hidden' to class lists
 
-The html and css was takn directly from the course
+<b> The html and css was taken directly from the course. </b>
